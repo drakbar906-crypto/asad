@@ -1,0 +1,14 @@
+{
+  "name": "Laporan Latihan ASAD Desa Selatan",
+  "short_name": "Laporan ASAD",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b6b3a",
+  "theme_color": "#0b6b3a",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
